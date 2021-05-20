@@ -4,3 +4,5 @@ A console App which takes the last copied Text from the System Clipboard and ext
 
 # Executable
 I used PyInstaller to make an executable for Windows. You can download it from the 'dist' folder above. Enjoy!
+
+And another executable for Ubuntu/Linux, in the same folder.
