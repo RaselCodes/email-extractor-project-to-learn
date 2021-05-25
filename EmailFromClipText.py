@@ -5,7 +5,7 @@ def promptToContinueOrExit():
     print("\n" * 2)
     print('*' * 20)
     print('\n\nTo proceed, copy or cut some text; after copying/cutting, Simply press Enter Key.')
-    print('\nTo exit the program, type anything or nothing and press Enter key.\n')
+    print('\nTo exit the program, type anything and press Enter key.\n')
 
 
 def takeInput():
